@@ -6,12 +6,12 @@ a command-line Roman numeral converter that also supported basic mathematical op
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Launch](#launch)
 * [Source](#source)
 * [Other information](#other-information)
 
 ## General info
-This project is command line based roman numeral
+This project is a command line-based Roman numeral converter that allows you to process arithmetic operations on Roman numerals.
+The output from the operations can only be in the range from 1 to 3999. Feel free to recommend or implement new functionalities.
 
 ## Technologies
 Project is created with:
@@ -19,16 +19,16 @@ Project is created with:
 
 ## Setup
 To run this project, install it locally.
-Then make sure that you have python install, using the following commands in your terminal:
+Then make sure that you have Python installed, using the following commands in your terminal:
 
 ```
 $ python --version
 ```
 
-It should return the version number of your python if it doesn't install python using this link [python](https://www.python.org/downloads/).
+It should return the version number of your Python if it doesn't install Python using this link [python](https://www.python.org/downloads/).
 
 
-Finally you can run the game with this command (make sure that you are in the folder where the game is installed):
+Finally, you can run the game with this command (make sure that you are in the folder where the game is installed):
 
 ```
 $ python main.py
@@ -38,7 +38,7 @@ $ python main.py
 Completed
 
 ## Source
-* The beginner python sheet by CodePath
+* The beginner Python sheet by CodePath
 * [How to write a Readme file by Bulldogjob](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project)
 
 ## Other information
